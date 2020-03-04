@@ -1,0 +1,40 @@
+body{
+  background-image: url(../image/contact.jpeg);
+  background-size: cover;
+  color: rgb(17, 16, 16);
+}
+
+.text {
+align-self: center;
+font-style: italic;
+font-size: 20px;
+border: 2px solid black;
+}
+#about
+{
+ width: 40%;
+display: inline-block;
+
+}
+
+.aboutus{
+  text-align: left;
+  
+
+}
+.container{
+  align-content: left;
+  margin-left: 0px;
+
+}
+.contain{
+  font-size:larger;
+
+}
+.dev{
+  display: inline-block;
+}
+.free{
+  display: inline-block;
+}
+
